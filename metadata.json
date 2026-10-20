@@ -1,0 +1,8 @@
+{
+  "name": "GlowStudio - Studio Make-up Virtual & AI Beauty Advisor",
+  "description": "Aplikasi make-up komprehensif dengan studio rias virtual interaktif, tes personal color & undertone, koleksi lookbook tren, panduan masterclass rias, dan konsultasi kecantikan AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
